@@ -2,11 +2,11 @@
   "games": [
     {
       "name": "game1",
-      "image": "url1"
+      "image_prefix": "game1"
     },
     {
       "name": "game2",
-      "image": "url1"
+      "image_prefix": "game1"
     }
   ]
 }
