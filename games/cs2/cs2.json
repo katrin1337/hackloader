@@ -1,1 +1,12 @@
-
+{
+  "cs2": [
+    {
+      "name": "game1",
+      "image_prefix": "game1"
+    },
+    {
+      "name": "game2",
+      "image_prefix": "game1"
+    }
+  ]
+}
