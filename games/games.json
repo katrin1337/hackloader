@@ -1,12 +1,12 @@
 {
   "games": [
     {
-      "name": "game1",
-      "image_prefix": "game1"
+      "name": "cs2",
+      "image_prefix": "cs2img"
     },
     {
-      "name": "game2",
-      "image_prefix": "game1"
+      "name": "rust",
+      "image_prefix": "rustimg"
     }
   ]
 }
