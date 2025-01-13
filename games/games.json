@@ -1,11 +1,11 @@
 {
   "games": [
     {
-      "name": "name1",
+      "name": "game1",
       "image": "url1"
     },
     {
-      "name": "name2",
+      "name": "game2",
       "image": "url1"
     }
   ]
