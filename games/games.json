@@ -5,6 +5,22 @@
       "image_prefix": "cs2img"
     },
     {
+      "name": "game1",
+      "image_prefix": "cs2img"
+    },
+    {
+      "name": "game3",
+      "image_prefix": "cs2img"
+    },
+    {
+      "name": "game4",
+      "image_prefix": "cs2img"
+    },
+    {
+      "name": "game5",
+      "image_prefix": "cs2img"
+    },
+    {
       "name": "rust",
       "image_prefix": "rustimg"
     }
