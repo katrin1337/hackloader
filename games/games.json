@@ -3,32 +3,12 @@
     {
       "name": "Counter Strike 2",
       "shortname":"cs2",
-      "image_prefix": "cs2img"
-    },
-    {
-      "name": "GTA V Online",
-      "shortname":"game1",
-      "image_prefix": "fwfwf"
-    },
-    {
-      "name": "Squad",
-      "shortname":"game3",
-      "image_prefix": "grfas"
-    },
-    {
-      "name": "Arma 3",
-      "shortname":"game4",
-      "image_prefix": "sfgb"
-    },
-    {
-      "name": "Lethal Company",
-      "shortname":"game5",
-      "image_prefix": "qwrf"
+      "processname": "cs2.exe"
     },
     {
       "name": "Rust Alkad",
       "shortname":"rustalkad",
-      "image_prefix": "rustimg"
+      "processname": "RustClient.exe"
     }
   ]
 }
