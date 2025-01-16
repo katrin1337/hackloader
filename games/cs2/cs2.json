@@ -1,11 +1,11 @@
 {
   "cs2": [
     {
-      "name": "CheatName1",
-      "shortname": "name1",
-      "author": "author1",
-      "description": "description1",
-      "type": "Legit",
+      "name": "Aimware",
+      "shortname": "aimware",
+      "author": "william1337",
+      "description": "Theres nothing :P",
+      "type": "Universal",
       "dllurl": "dllurl"
     },
     {
