@@ -1,20 +1,11 @@
 {
   "rustalkad": [
     {
-      "name": "CheatName1",
-      "shortname": "name1",
-      "author": "author1",
-      "description": "description1",
-      "type": "Legit",
-      "dllurl": "dllurl"
-    },
-    {
-      "name": "CheatName2",
-      "shortname": "name2",
-      "author": "author2",
-      "description": "description2",
-      "type": "Rage",
-      "dllurl": "dllurl"
+      "name": "Omega Free",
+      "shortname": "omegafree",
+      "author": "Omega",
+      "description": "Theres nothing :P",
+      "type": "Alkad",
     }
   ]
 }
