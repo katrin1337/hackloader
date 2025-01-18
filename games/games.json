@@ -2,12 +2,12 @@
   "games": [
     {
       "name": "Counter Strike 2",
-      "shortname":"cs2",
+      "shortname": "cs2",
       "processname": "cs2.exe"
     },
     {
       "name": "Rust Alkad",
-      "shortname":"rustalkad",
+      "shortname": "rustalkad",
       "processname": "RustClient.exe"
     }
   ]
