@@ -5,7 +5,8 @@
       "shortname": "aimware",
       "author": "william1337",
       "description": "Theres nothing :P",
-      "type": "Universal"
+      "type": "Universal",
+      "injtype": "mmap"
     }
   ]
 }
