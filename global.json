@@ -1,5 +1,6 @@
 {
   "version": "1.0.0",
   "update_url": "https://discord.gg/ZEJPftM3mY",
-  "exec": "hackloader"
+  "exec": "hackloader",
+  "bypasser": "Work"
 }
