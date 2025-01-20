@@ -5,14 +5,16 @@
       "shortname": "omegafree",
       "author": "Omega",
       "description": "Theres nothing :P",
-      "type": "Legit"
+      "type": "Legit",
+      "injtype": "lla"
     },
     {
       "name": "Superiority",
       "shortname": "superiority",
       "author": "Deadbull",
       "description": "Theres nothing :P",
-      "type": "Rage"
+      "type": "Rage",
+      "injtype": "lla"
     }
   ]
 }
