@@ -2,6 +2,6 @@
   "version": "1.0.0",
   "update_url": "https://discord.gg/ZEJPftM3mY",
   "exec": "hackloader",
-  "bypasser-version": "1.0.0",
+  "bypasser-version": "2.0.0",
   "tempdir": "grekwmolgp"
 }
