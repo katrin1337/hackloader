@@ -1,9 +1,10 @@
 {
   "tools": [
     {
-      "name": "Alkad EAC Bypasser",
+      "name": "GoodbyeEAC",
       "shortname": "eacalkadbypass",
-      "author": "usehwh"
+      "author": "usehwh",
+      "description": "Simple program for bypass Alkad EAC"
     }
   ]
 }
