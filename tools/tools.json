@@ -1,1 +1,9 @@
-
+{
+  "tools": [
+    {
+      "name": "Alkad EAC Bypasser",
+      "shortname": "eacalkadbypass",
+      "author": "usehwh"
+    }
+  ]
+}
