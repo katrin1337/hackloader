@@ -7,6 +7,14 @@
       "description": "Theres nothing :P",
       "type": "Universal",
       "injtype": "mmap"
+    },
+    {
+      "name": "RebornHack",
+      "shortname": "rebornhack",
+      "author": "reborn",
+      "description": "Theres nothing :P",
+      "type": "Legit",
+      "injtype": "mmap"
     }
   ]
 }
