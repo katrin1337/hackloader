@@ -5,6 +5,12 @@
       "shortname": "eacalkadbypass",
       "author": "usehwh",
       "description": "Simple program for bypass Alkad EAC"
+    },
+    {
+      "name": "TestTool",
+      "shortname": "testtool",
+      "author": "testauthor",
+      "description": "Test discription"
     }
   ]
 }
