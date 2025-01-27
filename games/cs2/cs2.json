@@ -6,7 +6,8 @@
       "author": "william1337",
       "description": "Theres nothing :P",
       "type": "Universal",
-      "injtype": "mmap"
+      "injtype": "mmap",
+      "filetype": "dll"
     },
     {
       "name": "RebornHack",
@@ -14,7 +15,8 @@
       "author": "reborn",
       "description": "Theres nothing :P",
       "type": "Legit",
-      "injtype": "mmap"
+      "injtype": "mmap",
+      "filetype": "dll"
     }
   ]
 }
