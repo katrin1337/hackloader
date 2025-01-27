@@ -6,7 +6,8 @@
       "author": "Omega",
       "description": "Theres nothing :P",
       "type": "Legit",
-      "injtype": "lla"
+      "injtype": "lla",
+      "filetype": "dll"
     },
     {
       "name": "Superiority",
@@ -14,7 +15,8 @@
       "author": "Deadbull",
       "description": "Theres nothing :P",
       "type": "Rage",
-      "injtype": "lla"
+      "injtype": "lla",
+      "filetype": "dll"
     }
   ]
 }
