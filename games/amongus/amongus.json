@@ -1,0 +1,13 @@
+{
+  "amongus": [
+    {
+      "name": "SickoMenu",
+      "shortname": "sickomenu",
+      "author": "goaty",
+      "description": "Theres nothing :P",
+      "type": "Universal",
+      "injtype": "lla",
+      "filetype": "dll"
+    }
+  ]
+}
