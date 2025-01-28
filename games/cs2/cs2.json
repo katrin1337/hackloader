@@ -26,6 +26,15 @@
       "type": "Universal",
       "injtype": "mmap",
       "filetype": "dll"
+    },
+    {
+      "name": "Xone Free Ext.",
+      "shortname": "xonefree",
+      "author": "XONE",
+      "description": "Theres nothing :P",
+      "type": "Legit",
+      "injtype": "none",
+      "filetype": "exe"
     }
   ]
 }
