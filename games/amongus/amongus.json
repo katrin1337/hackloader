@@ -6,8 +6,8 @@
       "author": "goaty",
       "description": "Menu key: Del",
       "type": "Universal",
-      "injtype": "lla32",
-      "filetype": "dll"
+      "injtype": "none",
+      "filetype": "exe"
     }
   ]
 }
