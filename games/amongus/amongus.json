@@ -4,7 +4,7 @@
       "name": "SickoMenu",
       "shortname": "sickomenu",
       "author": "goaty",
-      "description": "Theres nothing :P",
+      "description": "Menu key: Del",
       "type": "Universal",
       "injtype": "lla",
       "filetype": "dll"
