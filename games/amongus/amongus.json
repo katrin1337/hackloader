@@ -6,7 +6,7 @@
       "author": "goaty",
       "description": "Menu key: Del",
       "type": "Universal",
-      "injtype": "llas",
+      "injtype": "lla",
       "filetype": "dll"
     }
   ]
