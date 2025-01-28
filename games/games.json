@@ -13,7 +13,7 @@
     {
       "name": "Among Us",
       "shortname": "amongus",
-      "processname": "Among Us.exe"
+      "processname": "Among\x20Us.exe"
     }
   ]
 }
