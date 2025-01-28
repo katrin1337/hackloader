@@ -17,6 +17,15 @@
       "type": "Legit",
       "injtype": "mmap",
       "filetype": "dll"
+    },
+    {
+      "name": "Luna",
+      "shortname": "luna",
+      "author": "Shuroe",
+      "description": "Theres nothing :P",
+      "type": "Universal",
+      "injtype": "mmap",
+      "filetype": "dll"
     }
   ]
 }
