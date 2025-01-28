@@ -9,6 +9,11 @@
       "name": "Rust Alkad",
       "shortname": "rustalkad",
       "processname": "RustClient.exe"
+    },
+    {
+      "name": "Among Us",
+      "shortname": "amongus",
+      "processname": "Among Us.exe"
     }
   ]
 }
