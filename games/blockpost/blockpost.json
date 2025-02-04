@@ -1,0 +1,13 @@
+{
+    "blockpost": [
+        {
+            "name": "ScubusHack",
+            "shortname": "scubushack",
+            "author": "SCUB",
+            "description": "Nothing :)",
+            "type": "Universal",
+            "injtype": "none",
+            "filetype": "exe"
+        }
+    ]
+}
