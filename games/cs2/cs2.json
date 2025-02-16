@@ -35,6 +35,15 @@
       "type": "Legit",
       "injtype": "none",
       "filetype": "exe"
+    },
+    {
+      "name": "Osiris",
+      "shortname": "osiris",
+      "author": "danielkrupinski",
+      "description": "Have in-game menu",
+      "type": "Legit",
+      "injtype": "mmap",
+      "filetype": "dll"
     }
   ]
 }
