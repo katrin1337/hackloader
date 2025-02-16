@@ -1,0 +1,22 @@
+{
+  "phasmo": [
+    {
+      "name": "Asthmaphobia",
+      "shortname": "asthmaphobia",
+      "author": "ismokeloud",
+      "description": "Theres nothing :P",
+      "type": "Universal",
+      "injtype": "mmap",
+      "filetype": "dll"
+    },
+    {
+      "name": "PhasmoMenu",
+      "shortname": "phasmomenu",
+      "author": "PappyG",
+      "description": "Theres nothing :P",
+      "type": "Universal",
+      "injtype": "none",
+      "filetype": "exe"
+    }
+  ]
+}

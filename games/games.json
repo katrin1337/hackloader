@@ -11,6 +11,11 @@
       "processname": "RustClient.exe"
     },
     {
+      "name": "Phasmophobia",
+      "shortname": "phasmo",
+      "processname": "Phasmophobia.exe"
+    },
+    {
       "name": "Among Us",
       "shortname": "amongus",
       "processname": "Among Us.exe"
