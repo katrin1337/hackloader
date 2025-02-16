@@ -6,7 +6,7 @@
       "author": "ismokeloud",
       "description": "Theres nothing :P",
       "type": "Universal",
-      "injtype": "mmap",
+      "injtype": "lla",
       "filetype": "dll"
     },
     {
