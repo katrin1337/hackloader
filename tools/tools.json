@@ -1,9 +1,9 @@
 {
   "tools": [
     {
-      "name": "GoodbyeEAC",
-      "shortname": "eacalkadbypass",
-      "author": "usehwh",
+      "name": "AlkadLoader",
+      "shortname": "alkadloader",
+      "author": "DeepDevil51",
       "description": "Simple program for bypass Alkad EAC"
     }
   ]
